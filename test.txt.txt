@@ -3,3 +3,4 @@ hello2
 Login feature
 Added signUp feature
 Added user feature
+Added logout feature
